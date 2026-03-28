@@ -92,7 +92,6 @@ P10 solves the match congestion issue with one final output: The recommended Sta
 
 | Risk | Level | Mitigation |
 | :--- | :---: | :--- |
-
 | **Subjective Misreporting** | `High` | If a player reports "9/10" readiness but the `Arrival_Neural_Snap` shows a >15% lag, the system triggers an "AMBER" Alert, forcing an immediate physical check-up. |
 | **Hardware Latency** | `Low` | To avoid stadium Wi-Fi failure, `P10` is designed to run on a local tablet cache that syncs once a connection is stabilized, ensuring the HTML report is always accessible. |
 | **Tactical Conflict** | `Medium` | Even there are players better physically-ready to play the game, game-reading completed by the coaching staff, might suggest the use of a different player with physical restrictions, up to the Coaching Staff. |
