@@ -116,7 +116,7 @@ P10 solves the match congestion issue with one final output: The recommended Sta
 ## 📊 v.1.0 Test Results:
 
 | Criteria | v1.0 Score |
-| :--- | :---: | :--- |
+| :--- | :---: |
 | **Readability** | `5.0 / 5` | 
 | **Completeness** | `5.0 / 5` | 
 | **Tone Appropriateness** | `5.0 / 5` | 
